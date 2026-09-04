@@ -85,5 +85,15 @@ A camada de consumo permite responder questões como:
 - Quais categorias apresentam melhor desempenho?
 - Quais produtos possuem maior receita média mensal?
 
+<br>
 
+---
+
+## Informações para contato
+
+Sinta-se à vontade para entrar em contato comigo para discutir oportunidades, sugestões ou dúvidas sobre o projeto!
+
+- **Autor:** Angelo Carvalho
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/angelo-victor-carvalho)
+- **E-mail:** angelovictor1999@gmail.com
 
